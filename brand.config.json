@@ -7,7 +7,7 @@
     },
     "domain_name": "YourBrand.com",
     "colors": {
-        "primary": "#ff00ff",
+        "primary": "#3B82F6",
         "tertiary": "#8b5cf6",
         "success": "#10b981",
         "danger": "#ef4444",
@@ -31,7 +31,7 @@
     },
     "typography": {
         "font_family": {
-            "primary": "Inter",
+            "primary": "Roboto",
             "secondary": "Georgia, 'Times New Roman', Times, serif",
             "monospace": "'Courier New', Courier, monospace"
         },
@@ -78,7 +78,7 @@
         "css_variable_prefix": "--brand"
     },
     "platform": {
-        "name": "Bulls trading",
+        "name": "Bulls capital",
         "footer": {
             "enable_language_settings": false,
             "enable_theme_toggle": true
